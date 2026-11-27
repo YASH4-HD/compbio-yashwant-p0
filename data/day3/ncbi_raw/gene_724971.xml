@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="724971">
+	<Name>LOC724971</Name>
+	<Description>uncharacterized LOC724971</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG4</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB50482, SP23</OtherAliases>
+	<OtherDesignations>uncharacterized protein LOC724971|adhesive serine protease|serine protease 23</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG4</ChrLoc>
+			<ChrAccVer>NC_037641.1</ChrAccVer>
+			<ChrStart>7584218</ChrStart>
+			<ChrStop>7569502</ChrStop>
+			<ExonCount>30</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>22</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG04</ChrSort>
+	<ChrStart>7569502</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037641.1</ChrAccVer>
+			<ChrStart>7584218</ChrStart>
+			<ChrStop>7569502</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007073.3</ChrAccVer>
+			<ChrStart>6908323</ChrStart>
+			<ChrStop>6923361</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

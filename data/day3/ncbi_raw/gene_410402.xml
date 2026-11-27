@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="410402">
+	<Name>LOC410402</Name>
+	<Description>serine proteinase stubble</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG13</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB54762, SP6, cSP6</OtherAliases>
+	<OtherDesignations>serine proteinase stubble|serine protease 6|transmembrane protease serine 9|uncharacterized protein LOC410402</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG13</ChrLoc>
+			<ChrAccVer>NC_037650.1</ChrAccVer>
+			<ChrStart>2452044</ChrStart>
+			<ChrStop>2460559</ChrStop>
+			<ExonCount>13</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>22</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG13</ChrSort>
+	<ChrStart>2452044</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037650.1</ChrAccVer>
+			<ChrStart>2452044</ChrStart>
+			<ChrStop>2460559</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007082.3</ChrAccVer>
+			<ChrStart>669826</ChrStart>
+			<ChrStop>678333</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

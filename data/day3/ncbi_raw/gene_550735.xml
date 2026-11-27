@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="550735">
+	<Name>mas</Name>
+	<Description>trypsin-like serine protease domain-containing protein masquerade</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG15</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB49946, SPH41, cSPH41</OtherAliases>
+	<OtherDesignations>protein masquerade|serine protease homolog 41</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG15</ChrLoc>
+			<ChrAccVer>NC_037652.1</ChrAccVer>
+			<ChrStart>9289416</ChrStart>
+			<ChrStop>9281239</ChrStop>
+			<ExonCount>12</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>87</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG15</ChrSort>
+	<ChrStart>9281239</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037652.1</ChrAccVer>
+			<ChrStart>9289416</ChrStart>
+			<ChrStop>9281239</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007084.3</ChrAccVer>
+			<ChrStart>9768560</ChrStart>
+			<ChrStop>9760353</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

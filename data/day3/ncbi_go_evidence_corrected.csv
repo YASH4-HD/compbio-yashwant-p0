@@ -1,0 +1,25 @@
+NCBI Gene ID,GO category,GO ID,GO term,Evidence details,Evidence code
+113219236,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+113219236,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+410402,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+410402,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+412101,Function,GO:0005515,protein binding,evidence: IEA,IEA
+412101,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+412101,Process,GO:0007340,acrosome reaction,evidence: IEA,IEA
+412101,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+550735,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+550735,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+724917,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+724917,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+724971,Function,GO:0008061,chitin binding,evidence: IEA,IEA
+724971,Function,GO:0005515,protein binding,evidence: IEA,IEA
+724971,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+724971,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+724971,Component,GO:0005576,extracellular region,evidence: IEA,IEA
+724971,Component,GO:0016020,membrane,evidence: IEA,IEA
+725241,Function,GO:0005515,protein binding,evidence: IEA,IEA
+725241,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+725241,Process,GO:0006508,proteolysis,evidence: IEA,IEA
+725241,Component,GO:0016020,membrane,evidence: IEA,IEA
+726286,Function,GO:0004252,serine-type endopeptidase activity,evidence: IEA,IEA
+726286,Process,GO:0006508,proteolysis,evidence: IEA,IEA

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="113219236">
+	<Name>LOC113219236</Name>
+	<Description>uncharacterized LOC113219236</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG14</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases></OtherAliases>
+	<OtherDesignations>uncharacterized protein LOC113219236</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG14</ChrLoc>
+			<ChrAccVer>NC_037651.1</ChrAccVer>
+			<ChrStart>2455002</ChrStart>
+			<ChrStop>2453557</ChrStop>
+			<ExonCount>3</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>7</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG14</ChrSort>
+	<ChrStart>2453557</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037651.1</ChrAccVer>
+			<ChrStart>2455002</ChrStart>
+			<ChrStop>2453557</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

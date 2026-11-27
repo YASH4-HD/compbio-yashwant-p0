@@ -1,0 +1,979 @@
+{
+  "entryType": "UniProtKB unreviewed (TrEMBL)",
+  "primaryAccession": "A0A7M7FXW4",
+  "secondaryAccessions": [
+    "A0A8B6XDW0"
+  ],
+  "uniProtkbId": "A0A7M7FXW4_APIME",
+  "entryAudit": {
+    "firstPublicDate": "2021-04-07",
+    "lastAnnotationUpdateDate": "2026-11-04",
+    "lastSequenceUpdateDate": "2021-04-07",
+    "entryVersion": 26,
+    "sequenceVersion": 1
+  },
+  "annotationScore": 2.0,
+  "organism": {
+    "scientificName": "Apis mellifera",
+    "commonName": "Honeybee",
+    "taxonId": 7460,
+    "evidences": [
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "Proteomes",
+        "id": "UP000005203"
+      },
+      {
+        "evidenceCode": "ECO:0000313",
+        "source": "RefSeq",
+        "id": "XP_001120043.2"
+      }
+    ],
+    "lineage": [
+      "Eukaryota",
+      "Metazoa",
+      "Ecdysozoa",
+      "Arthropoda",
+      "Altocrustacea",
+      "Allotriocarida",
+      "Hexapoda",
+      "Insecta",
+      "Pterygota",
+      "Neoptera",
+      "Eumetabola",
+      "Endopterygota",
+      "Hymenoptera",
+      "Apocrita",
+      "Aculeata",
+      "Apoidea",
+      "Anthophila",
+      "Apidae",
+      "Apis"
+    ]
+  },
+  "proteinExistence": "3: Inferred from homology",
+  "proteinDescription": {
+    "recommendedName": {
+      "fullName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000256",
+            "source": "RuleBase",
+            "id": "RU366078"
+          }
+        ],
+        "value": "CLIP domain-containing serine protease"
+      },
+      "ecNumbers": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "RuleBase",
+              "id": "RU363034"
+            }
+          ],
+          "value": "3.4.21.-"
+        }
+      ]
+    }
+  },
+  "genes": [
+    {
+      "geneName": {
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000313",
+            "source": "RefSeq",
+            "id": "XP_001120043.2"
+          }
+        ],
+        "value": "LOC724250"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "commentType": "CATALYTIC ACTIVITY",
+      "reaction": {
+        "name": "Preferential cleavage: Tyr-|-Xaa, Trp-|-Xaa, Phe-|-Xaa, Leu-|-Xaa.",
+        "ecNumber": "3.4.21.1",
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000256",
+            "source": "PROSITE-ProRule",
+            "id": "PRU10078"
+          }
+        ]
+      }
+    },
+    {
+      "commentType": "SUBCELLULAR LOCATION",
+      "subcellularLocations": [
+        {
+          "location": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000256",
+                "source": "RuleBase",
+                "id": "RU366078"
+              }
+            ],
+            "value": "Secreted",
+            "id": "SL-0243"
+          }
+        }
+      ]
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "PROSITE-ProRule",
+              "id": "PRU01236"
+            },
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "RuleBase",
+              "id": "RU366078"
+            }
+          ],
+          "value": "The clip domain consists of 35-55 residues which are 'knitted' together usually by 3 conserved disulfide bonds forming a clip-like compact structure"
+        }
+      ],
+      "commentType": "DOMAIN"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "ARBA",
+              "id": "ARBA00024195"
+            },
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "PROSITE-ProRule",
+              "id": "PRU01236"
+            },
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "RuleBase",
+              "id": "RU366078"
+            }
+          ],
+          "value": "Belongs to the peptidase S1 family. CLIP subfamily"
+        }
+      ],
+      "commentType": "SIMILARITY"
+    },
+    {
+      "texts": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "PROSITE-ProRule",
+              "id": "PRU00274"
+            }
+          ],
+          "value": "Lacks conserved residue(s) required for the propagation of feature annotation"
+        }
+      ],
+      "commentType": "CAUTION"
+    }
+  ],
+  "features": [
+    {
+      "type": "Signal",
+      "location": {
+        "start": {
+          "value": 1,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 16,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "RuleBase",
+          "id": "RU366078"
+        }
+      ]
+    },
+    {
+      "type": "Chain",
+      "location": {
+        "start": {
+          "value": 17,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 399,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "CLIP domain-containing serine protease",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "RuleBase",
+          "id": "RU366078"
+        }
+      ],
+      "featureId": "PRO_5051631243"
+    },
+    {
+      "type": "Domain",
+      "location": {
+        "start": {
+          "value": 24,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 69,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Clip",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000259",
+          "source": "PROSITE",
+          "id": "PS51888"
+        }
+      ]
+    },
+    {
+      "type": "Domain",
+      "location": {
+        "start": {
+          "value": 149,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 397,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Peptidase S1",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000259",
+          "source": "PROSITE",
+          "id": "PS50240"
+        }
+      ]
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 193,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 193,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Charge relay system",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ]
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 245,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 245,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Charge relay system",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ]
+    },
+    {
+      "type": "Active site",
+      "location": {
+        "start": {
+          "value": 347,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 347,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "Charge relay system",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ]
+    },
+    {
+      "type": "Disulfide bond",
+      "location": {
+        "start": {
+          "value": 178,
+          "modifier": "EXACT"
+        },
+        "end": {
+          "value": 194,
+          "modifier": "EXACT"
+        }
+      },
+      "description": "",
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00023157"
+        },
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ],
+      "id": "KW-1015",
+      "category": "PTM",
+      "name": "Disulfide bond"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00023180"
+        }
+      ],
+      "id": "KW-0325",
+      "category": "PTM",
+      "name": "Glycoprotein"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022801"
+        },
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ],
+      "id": "KW-0378",
+      "category": "Molecular function",
+      "name": "Hydrolase"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022670"
+        },
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ],
+      "id": "KW-0645",
+      "category": "Molecular function",
+      "name": "Protease"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "Proteomes",
+          "id": "UP000005203"
+        }
+      ],
+      "id": "KW-1185",
+      "category": "Technical term",
+      "name": "Reference proteome"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "RuleBase",
+          "id": "RU366078"
+        }
+      ],
+      "id": "KW-0964",
+      "category": "Cellular component",
+      "name": "Secreted"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022825"
+        },
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "PROSITE-ProRule",
+          "id": "PRU00274"
+        }
+      ],
+      "id": "KW-0720",
+      "category": "Molecular function",
+      "name": "Serine protease"
+    },
+    {
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "ARBA",
+          "id": "ARBA00022729"
+        },
+        {
+          "evidenceCode": "ECO:0000256",
+          "source": "RuleBase",
+          "id": "RU366078"
+        }
+      ],
+      "id": "KW-0732",
+      "category": "Domain",
+      "name": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "referenceNumber": 1,
+      "citation": {
+        "id": "CI-FT6AV21EHNJSG",
+        "citationType": "submission",
+        "authoringGroup": [
+          "RefSeq"
+        ],
+        "publicationDate": "JUL-2026",
+        "submissionDatabase": "UniProtKB"
+      },
+      "referencePositions": [
+        "IDENTIFICATION"
+      ],
+      "referenceComments": [
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "RefSeq",
+              "id": "XP_001120043.2"
+            }
+          ],
+          "value": "DH4",
+          "type": "STRAIN"
+        },
+        {
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "RefSeq",
+              "id": "XP_001120043.2"
+            }
+          ],
+          "value": "Whole body",
+          "type": "TISSUE"
+        }
+      ],
+      "evidences": [
+        {
+          "evidenceCode": "ECO:0000313",
+          "source": "RefSeq",
+          "id": "XP_001120043.2"
+        }
+      ]
+    }
+  ],
+  "uniProtKBCrossReferences": [
+    {
+      "database": "RefSeq",
+      "id": "XP_001120043.2",
+      "properties": [
+        {
+          "key": "NucleotideSequenceId",
+          "value": "XM_001120043.5"
+        }
+      ]
+    },
+    {
+      "database": "AlphaFoldDB",
+      "id": "A0A7M7FXW4",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "SMR",
+      "id": "A0A7M7FXW4",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "GeneID",
+      "id": "724250",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "KEGG",
+      "id": "ame:724250",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OMA",
+      "id": "ADEMCRN",
+      "properties": [
+        {
+          "key": "Fingerprint",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "OrthoDB",
+      "id": "6339452at2759",
+      "properties": [
+        {
+          "key": "Description",
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "database": "Proteomes",
+      "id": "UP000005203",
+      "properties": [
+        {
+          "key": "Component",
+          "value": "Linkage group LG15"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0005576",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "C:extracellular region"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-SubCell"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0004252",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "F:serine-type endopeptidase activity"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:UniProtKB-UniRule"
+        }
+      ]
+    },
+    {
+      "database": "GO",
+      "id": "GO:0006508",
+      "properties": [
+        {
+          "key": "GoTerm",
+          "value": "P:proteolysis"
+        },
+        {
+          "key": "GoEvidenceType",
+          "value": "IEA:InterPro"
+        }
+      ]
+    },
+    {
+      "database": "CDD",
+      "id": "cd00190",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Tryp_SPc"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "FunFam",
+      "id": "2.40.10.10:FF:000028",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Serine protease easter"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "3.30.1640.30",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "-"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Gene3D",
+      "id": "2.40.10.10",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Trypsin-like serine proteases"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR022700",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CLIP"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR051333",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CLIP_Serine_Protease"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR038565",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CLIP_sf"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR009003",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Peptidase_S1_PA"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR001314",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Peptidase_S1A"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR001254",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Trypsin_dom"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR018114",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "TRYPSIN_HIS"
+        }
+      ]
+    },
+    {
+      "database": "InterPro",
+      "id": "IPR033116",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "TRYPSIN_SER"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR24260",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "-"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PANTHER",
+      "id": "PTHR24260:SF147",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "EG:BACR7A4.3 PROTEIN-RELATED"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF12032",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CLIP"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "Pfam",
+      "id": "PF00089",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Trypsin"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PRINTS",
+      "id": "PR00722",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CHYMOTRYPSIN"
+        }
+      ]
+    },
+    {
+      "database": "SMART",
+      "id": "SM00680",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CLIP"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SMART",
+      "id": "SM00020",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Tryp_SPc"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "SUPFAM",
+      "id": "SSF50494",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "Trypsin-like serine proteases"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS51888",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "CLIP"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS50240",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "TRYPSIN_DOM"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS00134",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "TRYPSIN_HIS"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "database": "PROSITE",
+      "id": "PS00135",
+      "properties": [
+        {
+          "key": "EntryName",
+          "value": "TRYPSIN_SER"
+        },
+        {
+          "key": "MatchStatus",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "sequence": {
+    "value": "MFIIVFLYFLCNPIFCNTQDEGEACITDNNSPGICKLLQQCPSVYEDLSKGLTPHKICGYLNFDPVVCCPNIKKTSTAISTITKTITTTTKQSIITTLLPFTAKMKTRAKCEEYSRYVYTTEYSLTLINVKNYKSLFDIKKYKQPNKFIVGGTKAKAKEFPHMAAIGFDTSDGIVWACDGTLISERFVLTAAHCTFNRNLNSTANWARLGDLNLERLDDSPKSENFHVIERIRNPYYKPPSQYHDIALLKLERNVEFNEWIRPSCLPYSLPDSGPDGKATATGWGNVGWEKTSSGDLLKVTINLVSQSECNKLFIGNEKNNKLKFGIIGDWQICAGELGKDTCQGDSGGPLVILNRDYEFMYTLIGVTSLGRVCGSIIPGIYTRVYNYIEWIETIVWPD",
+    "length": 399,
+    "molWeight": 44870,
+    "crc64": "6EFE4819F77A979F",
+    "md5": "90ED2E019C3C1F11F226B4939496AA63"
+  },
+  "extraAttributes": {
+    "countByCommentType": {
+      "CATALYTIC ACTIVITY": 1,
+      "SUBCELLULAR LOCATION": 1,
+      "DOMAIN": 1,
+      "SIMILARITY": 1,
+      "CAUTION": 1
+    },
+    "countByFeatureType": {
+      "Signal": 1,
+      "Chain": 1,
+      "Domain": 2,
+      "Active site": 3,
+      "Disulfide bond": 1
+    },
+    "uniParcId": "UPI000206384A"
+  }
+}

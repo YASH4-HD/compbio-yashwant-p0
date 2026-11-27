@@ -1,0 +1,1199 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Entrezgene-Set PUBLIC "-//NLM//DTD NCBI-Entrezgene, 21st January 2005//EN" "https://www.ncbi.nlm.nih.gov/data_specs/dtd/NCBI_Entrezgene.dtd">
+<Entrezgene-Set>
+<Entrezgene>
+  <Entrezgene_track-info>
+    <Gene-track>
+      <Gene-track_geneid>726286</Gene-track_geneid>
+      <Gene-track_status value="live">0</Gene-track_status>
+      <Gene-track_create-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2006</Date-std_year>
+              <Date-std_month>7</Date-std_month>
+              <Date-std_day>11</Date-std_day>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_create-date>
+      <Gene-track_update-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2026</Date-std_year>
+              <Date-std_month>4</Date-std_month>
+              <Date-std_day>18</Date-std_day>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_update-date>
+    </Gene-track>
+  </Entrezgene_track-info>
+  <Entrezgene_type value="protein-coding">6</Entrezgene_type>
+  <Entrezgene_source>
+    <BioSource>
+      <BioSource_genome value="genomic">1</BioSource_genome>
+      <BioSource_origin value="natural">1</BioSource_origin>
+      <BioSource_org>
+        <Org-ref>
+          <Org-ref_taxname>Apis mellifera</Org-ref_taxname>
+          <Org-ref_common>honey bee</Org-ref_common>
+          <Org-ref_db>
+            <Dbtag>
+              <Dbtag_db>taxon</Dbtag_db>
+              <Dbtag_tag>
+                <Object-id>
+                  <Object-id_id>7460</Object-id_id>
+                </Object-id>
+              </Dbtag_tag>
+            </Dbtag>
+          </Org-ref_db>
+          <Org-ref_orgname>
+            <OrgName>
+              <OrgName_name>
+                <OrgName_name_binomial>
+                  <BinomialOrgName>
+                    <BinomialOrgName_genus>Apis</BinomialOrgName_genus>
+                    <BinomialOrgName_species>mellifera</BinomialOrgName_species>
+                  </BinomialOrgName>
+                </OrgName_name_binomial>
+              </OrgName_name>
+              <OrgName_attrib>specified</OrgName_attrib>
+              <OrgName_lineage>Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Altocrustacea; Allotriocarida; Hexapoda; Insecta; Pterygota; Neoptera; Eumetabola; Endopterygota; Hymenoptera; Apocrita; Aculeata; Apoidea; Anthophila; Apidae; Apis</OrgName_lineage>
+              <OrgName_gcode>1</OrgName_gcode>
+              <OrgName_mgcode>5</OrgName_mgcode>
+              <OrgName_div>INV</OrgName_div>
+            </OrgName>
+          </Org-ref_orgname>
+        </Org-ref>
+      </BioSource_org>
+      <BioSource_subtype>
+        <SubSource>
+          <SubSource_subtype value="chromosome">1</SubSource_subtype>
+          <SubSource_name>LG5</SubSource_name>
+        </SubSource>
+      </BioSource_subtype>
+    </BioSource>
+  </Entrezgene_source>
+  <Entrezgene_gene>
+    <Gene-ref>
+      <Gene-ref_locus>LOC726286</Gene-ref_locus>
+      <Gene-ref_desc>uncharacterized LOC726286</Gene-ref_desc>
+      <Gene-ref_syn>
+        <Gene-ref_syn_E>SP1</Gene-ref_syn_E>
+        <Gene-ref_syn_E>cSP1</Gene-ref_syn_E>
+        <Gene-ref_syn_E>GB45701</Gene-ref_syn_E>
+      </Gene-ref_syn>
+    </Gene-ref>
+  </Entrezgene_gene>
+  <Entrezgene_prot>
+    <Prot-ref>
+      <Prot-ref_name>
+        <Prot-ref_name_E>serine protease 1</Prot-ref_name_E>
+      </Prot-ref_name>
+      <Prot-ref_desc>uncharacterized protein LOC726286</Prot-ref_desc>
+    </Prot-ref>
+  </Entrezgene_prot>
+  <Entrezgene_gene-source>
+    <Gene-source>
+      <Gene-source_src>LocusLink</Gene-source_src>
+      <Gene-source_src-int>726286</Gene-source_src-int>
+      <Gene-source_src-str2>726286</Gene-source_src-str2>
+    </Gene-source>
+  </Entrezgene_gene-source>
+  <Entrezgene_locus>
+    <Gene-commentary>
+      <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+      <Gene-commentary_heading>Reference Amel_HAv3.1 Primary Assembly</Gene-commentary_heading>
+      <Gene-commentary_label>Chromosome LG5 Reference Amel_HAv3.1 Primary Assembly</Gene-commentary_label>
+      <Gene-commentary_accession>NC_037642</Gene-commentary_accession>
+      <Gene-commentary_version>1</Gene-commentary_version>
+      <Gene-commentary_seqs>
+        <Seq-loc>
+          <Seq-loc_int>
+            <Seq-interval>
+              <Seq-interval_from>13459652</Seq-interval_from>
+              <Seq-interval_to>13465019</Seq-interval_to>
+              <Seq-interval_strand>
+                <Na-strand value="plus"/>
+              </Seq-interval_strand>
+              <Seq-interval_id>
+                <Seq-id>
+                  <Seq-id_gi>1476008931</Seq-id_gi>
+                </Seq-id>
+              </Seq-interval_id>
+            </Seq-interval>
+          </Seq-loc_int>
+        </Seq-loc>
+      </Gene-commentary_seqs>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="mRNA">3</Gene-commentary_type>
+          <Gene-commentary_heading>Reference</Gene-commentary_heading>
+          <Gene-commentary_accession>XM_026440888</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_genomic-coords>
+            <Seq-loc>
+              <Seq-loc_mix>
+                <Seq-loc-mix>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13459652</Seq-interval_from>
+                        <Seq-interval_to>13459912</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13460310</Seq-interval_from>
+                        <Seq-interval_to>13460747</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13460856</Seq-interval_from>
+                        <Seq-interval_to>13461566</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13462554</Seq-interval_from>
+                        <Seq-interval_to>13462694</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13463349</Seq-interval_from>
+                        <Seq-interval_to>13463524</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13463605</Seq-interval_from>
+                        <Seq-interval_to>13463881</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13463961</Seq-interval_from>
+                        <Seq-interval_to>13464232</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                  <Seq-loc>
+                    <Seq-loc_int>
+                      <Seq-interval>
+                        <Seq-interval_from>13464316</Seq-interval_from>
+                        <Seq-interval_to>13465019</Seq-interval_to>
+                        <Seq-interval_strand>
+                          <Na-strand value="plus"/>
+                        </Seq-interval_strand>
+                        <Seq-interval_id>
+                          <Seq-id>
+                            <Seq-id_gi>1476008931</Seq-id_gi>
+                          </Seq-id>
+                        </Seq-interval_id>
+                      </Seq-interval>
+                    </Seq-loc_int>
+                  </Seq-loc>
+                </Seq-loc-mix>
+              </Seq-loc_mix>
+            </Seq-loc>
+          </Gene-commentary_genomic-coords>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>1477749386</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_heading>Reference</Gene-commentary_heading>
+              <Gene-commentary_accession>XP_026296673</Gene-commentary_accession>
+              <Gene-commentary_version>1</Gene-commentary_version>
+              <Gene-commentary_genomic-coords>
+                <Seq-loc>
+                  <Seq-loc_mix>
+                    <Seq-loc-mix>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13459852</Seq-interval_from>
+                            <Seq-interval_to>13459912</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13460310</Seq-interval_from>
+                            <Seq-interval_to>13460747</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13460856</Seq-interval_from>
+                            <Seq-interval_to>13461566</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13462554</Seq-interval_from>
+                            <Seq-interval_to>13462694</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13463349</Seq-interval_from>
+                            <Seq-interval_to>13463524</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13463605</Seq-interval_from>
+                            <Seq-interval_to>13463881</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13463961</Seq-interval_from>
+                            <Seq-interval_to>13464232</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                      <Seq-loc>
+                        <Seq-loc_int>
+                          <Seq-interval>
+                            <Seq-interval_from>13464316</Seq-interval_from>
+                            <Seq-interval_to>13464666</Seq-interval_to>
+                            <Seq-interval_strand>
+                              <Na-strand value="plus"/>
+                            </Seq-interval_strand>
+                            <Seq-interval_id>
+                              <Seq-id>
+                                <Seq-id_gi>1476008931</Seq-id_gi>
+                              </Seq-id>
+                            </Seq-interval_id>
+                          </Seq-interval>
+                        </Seq-loc_int>
+                      </Seq-loc>
+                    </Seq-loc-mix>
+                  </Seq-loc_mix>
+                </Seq-loc>
+              </Gene-commentary_genomic-coords>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_whole>
+                    <Seq-id>
+                      <Seq-id_gi>1477749387</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-loc_whole>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+  </Entrezgene_locus>
+  <Entrezgene_properties>
+    <Gene-commentary>
+      <Gene-commentary_type value="property">16</Gene-commentary_type>
+      <Gene-commentary_label>Exon count</Gene-commentary_label>
+      <Gene-commentary_text>8</Gene-commentary_text>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>GeneOntology</Gene-commentary_heading>
+      <Gene-commentary_source>
+        <Other-source>
+          <Other-source_pre-text>Provided by</Other-source_pre-text>
+          <Other-source_anchor>RefSeq</Other-source_anchor>
+          <Other-source_url>https://www.ncbi.nlm.nih.gov/genome/annotation_euk/process/#gene_ontology</Other-source_url>
+        </Other-source>
+      </Gene-commentary_source>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_label>Function</Gene-commentary_label>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>22301074</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>30032202</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>4252</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>serine-type endopeptidase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_label>Process</Gene-commentary_label>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>22301074</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>30032202</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>6508</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>involved_in</Other-source_pre-text>
+                  <Other-source_anchor>proteolysis</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+  </Entrezgene_properties>
+  <Entrezgene_comments>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>RefSeq Status</Gene-commentary_heading>
+      <Gene-commentary_label>MODEL</Gene-commentary_label>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_refs>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>24479613</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17073008</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17065614</PubMedId>
+          </Pub_pmid>
+        </Pub>
+      </Gene-commentary_refs>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>NCBI Reference Sequences (RefSeq)</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_heading>RefSeqs of Annotated Genomes: Apis mellifera Annotation Release 104</Gene-commentary_heading>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+              <Gene-commentary_heading>Reference Amel_HAv3.1 Primary Assembly</Gene-commentary_heading>
+              <Gene-commentary_accession>NC_037642</Gene-commentary_accession>
+              <Gene-commentary_version>1</Gene-commentary_version>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>Nucleotide</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>1476008931</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                </Other-source>
+              </Gene-commentary_source>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_int>
+                    <Seq-interval>
+                      <Seq-interval_from>13459652</Seq-interval_from>
+                      <Seq-interval_to>13465019</Seq-interval_to>
+                      <Seq-interval_strand>
+                        <Na-strand value="plus"/>
+                      </Seq-interval_strand>
+                      <Seq-interval_id>
+                        <Seq-id>
+                          <Seq-id_gi>1476008931</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-interval_id>
+                    </Seq-interval>
+                  </Seq-loc_int>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+              <Gene-commentary_products>
+                <Gene-commentary>
+                  <Gene-commentary_type value="mRNA">3</Gene-commentary_type>
+                  <Gene-commentary_accession>XM_026440888</Gene-commentary_accession>
+                  <Gene-commentary_version>1</Gene-commentary_version>
+                  <Gene-commentary_source>
+                    <Other-source>
+                      <Other-source_src>
+                        <Dbtag>
+                          <Dbtag_db>Nucleotide</Dbtag_db>
+                          <Dbtag_tag>
+                            <Object-id>
+                              <Object-id_id>1477749386</Object-id_id>
+                            </Object-id>
+                          </Dbtag_tag>
+                        </Dbtag>
+                      </Other-source_src>
+                    </Other-source>
+                  </Gene-commentary_source>
+                  <Gene-commentary_seqs>
+                    <Seq-loc>
+                      <Seq-loc_whole>
+                        <Seq-id>
+                          <Seq-id_gi>1477749386</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-loc_whole>
+                    </Seq-loc>
+                  </Gene-commentary_seqs>
+                  <Gene-commentary_products>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+                      <Gene-commentary_accession>XP_026296673</Gene-commentary_accession>
+                      <Gene-commentary_version>1</Gene-commentary_version>
+                      <Gene-commentary_source>
+                        <Other-source>
+                          <Other-source_src>
+                            <Dbtag>
+                              <Dbtag_db>Protein</Dbtag_db>
+                              <Dbtag_tag>
+                                <Object-id>
+                                  <Object-id_id>1477749387</Object-id_id>
+                                </Object-id>
+                              </Dbtag_tag>
+                            </Dbtag>
+                          </Other-source_src>
+                          <Other-source_anchor>XP_026296673</Other-source_anchor>
+                          <Other-source_post-text>uncharacterized protein LOC726286</Other-source_post-text>
+                        </Other-source>
+                      </Gene-commentary_source>
+                      <Gene-commentary_seqs>
+                        <Seq-loc>
+                          <Seq-loc_whole>
+                            <Seq-id>
+                              <Seq-id_gi>1477749387</Seq-id_gi>
+                            </Seq-id>
+                          </Seq-loc_whole>
+                        </Seq-loc>
+                      </Gene-commentary_seqs>
+                      <Gene-commentary_comment>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_heading>Conserved Domains</Gene-commentary_heading>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_pre-text>(4)</Other-source_pre-text>
+                              <Other-source_anchor>summary</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_source>
+                                <Other-source>
+                                  <Other-source_src>
+                                    <Dbtag>
+                                      <Dbtag_db>CDD</Dbtag_db>
+                                      <Dbtag_tag>
+                                        <Object-id>
+                                          <Object-id_id>214473</Object-id_id>
+                                        </Object-id>
+                                      </Dbtag_tag>
+                                    </Dbtag>
+                                  </Other-source_src>
+                                  <Other-source_anchor>smart00020: Tryp_SPc; Trypsin-like serine protease</Other-source_anchor>
+                                </Other-source>
+                              </Gene-commentary_source>
+                              <Gene-commentary_comment>
+                                <Gene-commentary>
+                                  <Gene-commentary_type value="other">255</Gene-commentary_type>
+                                  <Gene-commentary_text>Location: 144 - 397</Gene-commentary_text>
+                                </Gene-commentary>
+                              </Gene-commentary_comment>
+                            </Gene-commentary>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_source>
+                                <Other-source>
+                                  <Other-source_src>
+                                    <Dbtag>
+                                      <Dbtag_db>CDD</Dbtag_db>
+                                      <Dbtag_tag>
+                                        <Object-id>
+                                          <Object-id_id>238113</Object-id_id>
+                                        </Object-id>
+                                      </Dbtag_tag>
+                                    </Dbtag>
+                                  </Other-source_src>
+                                  <Other-source_anchor>cd00190: Tryp_SPc; Trypsin-like serine protease; Many of these are synthesized as inactive precursor zymogens that are cleaved during limited proteolysis to generate their active forms. Alignment contains also inactive enzymes that have substitutions of the catalytic triad ...</Other-source_anchor>
+                                </Other-source>
+                              </Gene-commentary_source>
+                              <Gene-commentary_comment>
+                                <Gene-commentary>
+                                  <Gene-commentary_type value="other">255</Gene-commentary_type>
+                                  <Gene-commentary_text>Location: 549 - 805</Gene-commentary_text>
+                                </Gene-commentary>
+                              </Gene-commentary_comment>
+                            </Gene-commentary>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_source>
+                                <Other-source>
+                                  <Other-source_src>
+                                    <Dbtag>
+                                      <Dbtag_db>CDD</Dbtag_db>
+                                      <Dbtag_tag>
+                                        <Object-id>
+                                          <Object-id_id>314844</Object-id_id>
+                                        </Object-id>
+                                      </Dbtag_tag>
+                                    </Dbtag>
+                                  </Other-source_src>
+                                  <Other-source_anchor>pfam12032: CLIP; Regulatory CLIP domain of proteinases</Other-source_anchor>
+                                </Other-source>
+                              </Gene-commentary_source>
+                              <Gene-commentary_comment>
+                                <Gene-commentary>
+                                  <Gene-commentary_type value="other">255</Gene-commentary_type>
+                                  <Gene-commentary_text>Location: 28 - 80</Gene-commentary_text>
+                                </Gene-commentary>
+                                <Gene-commentary>
+                                  <Gene-commentary_type value="other">255</Gene-commentary_type>
+                                  <Gene-commentary_text>Location: 454 - 506</Gene-commentary_text>
+                                </Gene-commentary>
+                              </Gene-commentary_comment>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_heading>UniProtKB</Gene-commentary_heading>
+                          <Gene-commentary_source></Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_source>
+                                <Other-source>
+                                  <Other-source_src>
+                                    <Dbtag>
+                                      <Dbtag_db>UniProtKB/TrEMBL</Dbtag_db>
+                                      <Dbtag_tag>
+                                        <Object-id>
+                                          <Object-id_str>A0A7M7L6X9</Object-id_str>
+                                        </Object-id>
+                                      </Dbtag_tag>
+                                    </Dbtag>
+                                  </Other-source_src>
+                                  <Other-source_anchor>A0A7M7L6X9</Other-source_anchor>
+                                </Other-source>
+                                <Other-source>
+                                  <Other-source_src>
+                                    <Dbtag>
+                                      <Dbtag_db>UniProtKB/TrEMBL</Dbtag_db>
+                                      <Dbtag_tag>
+                                        <Object-id>
+                                          <Object-id_str>A0A8B8GZH0</Object-id_str>
+                                        </Object-id>
+                                      </Dbtag_tag>
+                                    </Dbtag>
+                                  </Other-source_src>
+                                  <Other-source_anchor>A0A8B8GZH0</Other-source_anchor>
+                                </Other-source>
+                              </Gene-commentary_source>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                      </Gene-commentary_comment>
+                    </Gene-commentary>
+                  </Gene-commentary_products>
+                </Gene-commentary>
+              </Gene-commentary_products>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>Related Sequences</Gene-commentary_heading>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+          <Gene-commentary_heading>Genomic</Gene-commentary_heading>
+          <Gene-commentary_accession>QIUM02000019</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>Nucleotide</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>1468983423</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>QIUM02000019.1</Other-source_anchor>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_int>
+                <Seq-interval>
+                  <Seq-interval_from>7369917</Seq-interval_from>
+                  <Seq-interval_to>7375284</Seq-interval_to>
+                  <Seq-interval_strand>
+                    <Na-strand value="plus"/>
+                  </Seq-interval_strand>
+                  <Seq-interval_id>
+                    <Seq-id>
+                      <Seq-id_gi>1468983423</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-interval_id>
+                </Seq-interval>
+              </Seq-loc_int>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_text>None</Gene-commentary_text>
+            </Gene-commentary>
+          </Gene-commentary_products>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="other">255</Gene-commentary_type>
+              <Gene-commentary_label>Strain</Gene-commentary_label>
+              <Gene-commentary_text>DH4</Gene-commentary_text>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="mRNA">3</Gene-commentary_type>
+          <Gene-commentary_heading>mRNA</Gene-commentary_heading>
+          <Gene-commentary_accession>HP468972</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>Nucleotide</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>308400765</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>HP468972.1</Other-source_anchor>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>308400765</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_text>None</Gene-commentary_text>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="mRNA">3</Gene-commentary_type>
+          <Gene-commentary_heading>mRNA</Gene-commentary_heading>
+          <Gene-commentary_accession>HP499571</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>Nucleotide</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>308422948</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>HP499571.1</Other-source_anchor>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>308422948</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_text>None</Gene-commentary_text>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="mRNA">3</Gene-commentary_type>
+          <Gene-commentary_heading>mRNA</Gene-commentary_heading>
+          <Gene-commentary_accession>HP547097</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>Nucleotide</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>308530150</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>HP547097.1</Other-source_anchor>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>308530150</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_text>None</Gene-commentary_text>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>Additional Links</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_text>UCSC</Gene-commentary_text>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>UCSC</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_str>UCSC</Object-id_str>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>UCSC</Other-source_anchor>
+              <Other-source_url>http://genome.ucsc.edu/cgi-bin/hgTracks?org=A.+mellifera&amp;position=HP468972</Other-source_url>
+            </Other-source>
+          </Gene-commentary_source>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_text>UniGene</Gene-commentary_text>
+          <Gene-commentary_xtra-properties>
+            <Xtra-Terms>
+              <Xtra-Terms_tag>UNIGENE</Xtra-Terms_tag>
+              <Xtra-Terms_value>Ame.8616</Xtra-Terms_value>
+            </Xtra-Terms>
+          </Gene-commentary_xtra-properties>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>UniGene</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_str>Ame.8616</Object-id_str>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>Ame.8616</Other-source_anchor>
+              <Other-source_url>https://www.ncbi.nlm.nih.gov/UniGene/clust.cgi?ORG=Ame&amp;CID=8616</Other-source_url>
+            </Other-source>
+          </Gene-commentary_source>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_text>UniGene</Gene-commentary_text>
+          <Gene-commentary_xtra-properties>
+            <Xtra-Terms>
+              <Xtra-Terms_tag>UNIGENE</Xtra-Terms_tag>
+              <Xtra-Terms_value>Ame.17604</Xtra-Terms_value>
+            </Xtra-Terms>
+          </Gene-commentary_xtra-properties>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>UniGene</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_str>Ame.17604</Object-id_str>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>Ame.17604</Other-source_anchor>
+              <Other-source_url>https://www.ncbi.nlm.nih.gov/UniGene/clust.cgi?ORG=Ame&amp;CID=17604</Other-source_url>
+            </Other-source>
+          </Gene-commentary_source>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>Gene Location History</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_heading>Apis mellifera Annotation Release 104</Gene-commentary_heading>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="assembly">24</Gene-commentary_type>
+              <Gene-commentary_heading>Amel_HAv3.1</Gene-commentary_heading>
+              <Gene-commentary_label>Reference</Gene-commentary_label>
+              <Gene-commentary_text>current</Gene-commentary_text>
+              <Gene-commentary_accession>GCF_003254395</Gene-commentary_accession>
+              <Gene-commentary_version>2</Gene-commentary_version>
+              <Gene-commentary_comment>
+                <Gene-commentary>
+                  <Gene-commentary_type value="assembly-unit">25</Gene-commentary_type>
+                  <Gene-commentary_heading>Primary Assembly</Gene-commentary_heading>
+                  <Gene-commentary_accession>GCF_003254405</Gene-commentary_accession>
+                  <Gene-commentary_version>2</Gene-commentary_version>
+                  <Gene-commentary_comment>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+                      <Gene-commentary_label>Linkage Group LG5</Gene-commentary_label>
+                      <Gene-commentary_accession>NC_037642</Gene-commentary_accession>
+                      <Gene-commentary_version>1</Gene-commentary_version>
+                      <Gene-commentary_seqs>
+                        <Seq-loc>
+                          <Seq-loc_int>
+                            <Seq-interval>
+                              <Seq-interval_from>13459652</Seq-interval_from>
+                              <Seq-interval_to>13465019</Seq-interval_to>
+                              <Seq-interval_strand>
+                                <Na-strand value="plus"/>
+                              </Seq-interval_strand>
+                              <Seq-interval_id>
+                                <Seq-id>
+                                  <Seq-id_gi>1476008931</Seq-id_gi>
+                                </Seq-id>
+                              </Seq-interval_id>
+                            </Seq-interval>
+                          </Seq-loc_int>
+                        </Seq-loc>
+                      </Gene-commentary_seqs>
+                    </Gene-commentary>
+                  </Gene-commentary_comment>
+                </Gene-commentary>
+              </Gene-commentary_comment>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_heading>Apis mellifera Annotation Release 103</Gene-commentary_heading>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="assembly">24</Gene-commentary_type>
+              <Gene-commentary_heading>Amel_4.5</Gene-commentary_heading>
+              <Gene-commentary_label>Reference</Gene-commentary_label>
+              <Gene-commentary_text>previous assembly</Gene-commentary_text>
+              <Gene-commentary_accession>GCF_000002195</Gene-commentary_accession>
+              <Gene-commentary_version>4</Gene-commentary_version>
+              <Gene-commentary_comment>
+                <Gene-commentary>
+                  <Gene-commentary_type value="assembly-unit">25</Gene-commentary_type>
+                  <Gene-commentary_heading>Primary Assembly</Gene-commentary_heading>
+                  <Gene-commentary_accession>GCF_000000085</Gene-commentary_accession>
+                  <Gene-commentary_version>3</Gene-commentary_version>
+                  <Gene-commentary_comment>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+                      <Gene-commentary_label>Linkage Group LG5</Gene-commentary_label>
+                      <Gene-commentary_accession>NC_007074</Gene-commentary_accession>
+                      <Gene-commentary_version>3</Gene-commentary_version>
+                      <Gene-commentary_seqs>
+                        <Seq-loc>
+                          <Seq-loc_int>
+                            <Seq-interval>
+                              <Seq-interval_from>14103825</Seq-interval_from>
+                              <Seq-interval_to>14111695</Seq-interval_to>
+                              <Seq-interval_strand>
+                                <Na-strand value="minus"/>
+                              </Seq-interval_strand>
+                              <Seq-interval_id>
+                                <Seq-id>
+                                  <Seq-id_gi>323388983</Seq-id_gi>
+                                </Seq-id>
+                              </Seq-interval_id>
+                            </Seq-interval>
+                          </Seq-loc_int>
+                        </Seq-loc>
+                      </Gene-commentary_seqs>
+                    </Gene-commentary>
+                  </Gene-commentary_comment>
+                </Gene-commentary>
+              </Gene-commentary_comment>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="gene-group">23</Gene-commentary_type>
+      <Gene-commentary_heading>Orthologs from Annotation Pipeline</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="gene-group">23</Gene-commentary_type>
+          <Gene-commentary_label>Primary</Gene-commentary_label>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>GeneID</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>726286</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_pre-text>LOC726286</Other-source_pre-text>
+              <Other-source_anchor>honey bee</Other-source_anchor>
+            </Other-source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>taxon</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>7460</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+            </Other-source>
+          </Gene-commentary_source>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+  </Entrezgene_comments>
+  <Entrezgene_unique-keys>
+    <Dbtag>
+      <Dbtag_db>LocusID</Dbtag_db>
+      <Dbtag_tag>
+        <Object-id>
+          <Object-id_id>726286</Object-id_id>
+        </Object-id>
+      </Dbtag_tag>
+    </Dbtag>
+  </Entrezgene_unique-keys>
+  <Entrezgene_xtra-index-terms>
+    <Entrezgene_xtra-index-terms_E>LOC726286</Entrezgene_xtra-index-terms_E>
+  </Entrezgene_xtra-index-terms>
+</Entrezgene>
+</Entrezgene-Set>

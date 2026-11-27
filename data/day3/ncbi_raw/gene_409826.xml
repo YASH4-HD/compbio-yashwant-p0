@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="409826">
+	<Name>flz</Name>
+	<Description>transmembrane serine protease filzig</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG13</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB50650, SP33, cSP33</OtherAliases>
+	<OtherDesignations>mucin-12|proteoglycan 4|serine protease 33</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG13</ChrLoc>
+			<ChrAccVer>NC_037650.1</ChrAccVer>
+			<ChrStart>4412452</ChrStart>
+			<ChrStop>4395999</ChrStop>
+			<ExonCount>10</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>87</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG13</ChrSort>
+	<ChrStart>4395999</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037650.1</ChrAccVer>
+			<ChrStart>4412452</ChrStart>
+			<ChrStop>4395999</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007082.3</ChrAccVer>
+			<ChrStart>2800906</ChrStart>
+			<ChrStop>2788289</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

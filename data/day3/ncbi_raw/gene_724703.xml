@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="724703">
+	<Name>LOC724703</Name>
+	<Description>modular serine protease</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG6</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB52191, SP49</OtherAliases>
+	<OtherDesignations>modular serine protease|coagulation factor X|serine protease 49</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG6</ChrLoc>
+			<ChrAccVer>NC_037643.1</ChrAccVer>
+			<ChrStart>5365982</ChrStart>
+			<ChrStop>5361606</ChrStop>
+			<ExonCount>8</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>29</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG06</ChrSort>
+	<ChrStart>5361606</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037643.1</ChrAccVer>
+			<ChrStart>5365982</ChrStart>
+			<ChrStop>5361606</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007075.3</ChrAccVer>
+			<ChrStart>4599787</ChrStart>
+			<ChrStop>4604052</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

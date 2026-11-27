@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="412763">
+	<Name>LOC412763</Name>
+	<Description>cardiomyopathy-associated protein 5</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG9</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB42804, SPH54</OtherAliases>
+	<OtherDesignations>cardiomyopathy-associated protein 5|serine protease homolog 54</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG9</ChrLoc>
+			<ChrAccVer>NC_037646.1</ChrAccVer>
+			<ChrStart>6950794</ChrStart>
+			<ChrStop>7020476</ChrStop>
+			<ExonCount>13</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>33</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG09</ChrSort>
+	<ChrStart>6950794</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037646.1</ChrAccVer>
+			<ChrStart>6950794</ChrStart>
+			<ChrStop>7020476</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007078.3</ChrAccVer>
+			<ChrStart>5573948</ChrStart>
+			<ChrStop>5643312</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>
