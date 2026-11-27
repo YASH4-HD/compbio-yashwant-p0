@@ -55,3 +55,52 @@ The experiment uses synthetic data and a simple deterministic numerical analysis
 ## Final Status
 
 Computational reproducibility test: PASSED.
+
+## Clean Environment Deletion and Reconstruction
+
+### Date
+27 November 2026
+
+### System
+HP Omen (Windows)
+
+### Procedure
+
+1. Deactivated the original Conda environment.
+2. Removed the compbio-p0 environment completely.
+3. Confirmed its removal using conda env list.
+4. Reconstructed the environment using conda env create -f environment.yml.
+5. Activated the reconstructed compbio-p0 environment.
+6. Successfully imported NumPy, pandas and Matplotlib.
+7. Verified all five essential software versions.
+8. Repeated the original numerical analysis.
+
+### Results
+
+| Parameter | Original Environment | Rebuilt Environment |
+|---|---|---|
+| Python | 3.11.18 | 3.11.18 |
+| NumPy | 2.4.6 | 2.4.6 |
+| pandas | 3.1.0 | 3.1.0 |
+| Matplotlib | 3.11.2 | 3.11.2 |
+| JupyterLab | 4.6.4 | 4.6.4 |
+| Mean | 30.0 | 30.0 |
+| Median | 30.0 | 30.0 |
+| Population standard deviation | 14.142135623730951 | 14.142135623730951 |
+| Population variance | 200.0 | 200.0 |
+| Sum | 150 | 150 |
+
+All five software versions and all five numerical outputs matched exactly.
+
+### Conclusion
+
+The successful clean reconstruction using environment.yml demonstrates environment reproducibility on HP Omen. Together with the independent reconstruction on Dell, the results support cross-machine computational reproducibility for the selected numerical test on Windows.
+
+### Final Validation Status
+
+- Clean environment deletion: PASSED
+- Environment reconstruction: PASSED
+- Software version verification: PASSED
+- Scientific library import verification: PASSED
+- Numerical reproducibility: PASSED
+- Slide Step 6: COMPLETED
