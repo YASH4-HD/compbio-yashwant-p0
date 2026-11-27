@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="413274">
+	<Name>LOC413274</Name>
+	<Description>soluble guanylate cyclase 89Db-like</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG9</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB10150, GB41406</OtherAliases>
+	<OtherDesignations>soluble guanylate cyclase 89Da-like</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG9</ChrLoc>
+			<ChrAccVer>NC_037646.1</ChrAccVer>
+			<ChrStart>3043554</ChrStart>
+			<ChrStop>3011820</ChrStop>
+			<ExonCount>18</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>26</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG09</ChrSort>
+	<ChrStart>3011820</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037646.1</ChrAccVer>
+			<ChrStart>3043554</ChrStart>
+			<ChrStop>3011820</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007078.3</ChrAccVer>
+			<ChrStart>1456387</ChrStart>
+			<ChrStop>1503679</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

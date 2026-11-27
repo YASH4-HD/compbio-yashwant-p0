@@ -1,0 +1,25 @@
+NCBI Gene ID,GO category,GO ID,GO term,Evidence details
+113219236,Function,GO:0004252,,evidence: IEA
+113219236,Process,GO:0006508,,evidence: IEA
+410402,Function,GO:0004252,,evidence: IEA
+410402,Process,GO:0006508,,evidence: IEA
+412101,Function,GO:0005515,,evidence: IEA
+412101,Function,GO:0004252,,evidence: IEA
+412101,Process,GO:0007340,,evidence: IEA
+412101,Process,GO:0006508,,evidence: IEA
+550735,Function,GO:0004252,,evidence: IEA
+550735,Process,GO:0006508,,evidence: IEA
+724917,Function,GO:0004252,,evidence: IEA
+724917,Process,GO:0006508,,evidence: IEA
+724971,Function,GO:0008061,,evidence: IEA
+724971,Function,GO:0005515,,evidence: IEA
+724971,Function,GO:0004252,,evidence: IEA
+724971,Process,GO:0006508,,evidence: IEA
+724971,Component,GO:0005576,,evidence: IEA
+724971,Component,GO:0016020,,evidence: IEA
+725241,Function,GO:0005515,,evidence: IEA
+725241,Function,GO:0004252,,evidence: IEA
+725241,Process,GO:0006508,,evidence: IEA
+725241,Component,GO:0016020,,evidence: IEA
+726286,Function,GO:0004252,,evidence: IEA
+726286,Process,GO:0006508,,evidence: IEA

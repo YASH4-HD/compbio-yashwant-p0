@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "accession": "IPR001254",
+    "entry_id": null,
+    "type": "domain",
+    "go_terms": [
+      {
+        "identifier": "GO:0004252",
+        "name": "serine-type endopeptidase activity",
+        "category": {
+          "code": "F",
+          "name": "molecular_function"
+        }
+      },
+      {
+        "identifier": "GO:0006508",
+        "name": "proteolysis",
+        "category": {
+          "code": "P",
+          "name": "biological_process"
+        }
+      }
+    ],
+    "source_database": "interpro",
+    "member_databases": {
+      "cdd": {
+        "cd00190": "Tryp_SPc"
+      },
+      "profile": {
+        "PS50240": "Serine proteases, trypsin domain profile"
+      },
+      "smart": {
+        "SM00020": "Trypsin-like serine protease"
+      },
+      "pfam": {
+        "PF00089": "Trypsin"
+      }
+    },
+    "integrated": null,
+    "hierarchy": {
+      "accession": "IPR001254",
+      "name": "Serine proteases, trypsin domain",
+      "type": "Domain",
+      "children": [
+        {
+          "accession": "IPR015420",
+          "name": "Peptidase S1A, nudel",
+          "type": "Domain",
+          "children": []
+        }
+      ]
+    },
+    "name": {
+      "name": "Serine proteases, trypsin domain",
+      "short": "Trypsin_dom"
+    },
+    "description": [
+      {
+        "text": "<p>This entry represents the active-site-containing domain found in the trypsin family members. The catalytic activity of the serine proteases from the trypsin family is provided by a charge relay system involving an aspartic acid residue hydrogen-bonded to a histidine, which itself is hydrogen-bonded to a serine. The sequences in the vicinity of the active site serine and histidine residues are well conserved in this family of proteases [[cite:PUB00004028]]. A partial list of proteases known to belong to the trypsin family is shown below.</p>\n\n<ul>\n<li>Acrosin.</li>\n<li>Blood coagulation factors VII, IX, X, XI and XII, thrombin, plasminogen, and protein C.</li>\n<li>Cathepsin G.</li>\n<li>Chymotrypsins.</li>\n<li>Complement components C1r, C1s, C2, and complement factors B, D and I.</li>\n<li>Complement-activating component of RA-reactive factor.</li>\n<li>Cytotoxic cell proteases (granzymes A to H).</li>\n<li>Duodenase I.</li>\n<li>Elastases 1, 2, 3A, 3B (protease E), leukocyte (medullasin).</li>\n<li>Enterokinase (EC 3.4.21.9) (enteropeptidase).</li>\n<li>Hepatocyte growth factor activator.</li>\n<li>Hepsin.</li>\n<li>Glandular (tissue) kallikreins (including EGF-binding protein types A, B, and C, NGF-gamma chain, gamma-renin, prostate specific antigen (PSA) and tonin).</li>\n<li>Plasma kallikrein.</li>\n<li>Mast cell proteases (MCP) 1 (chymase) to 8.</li>\n<li>Myeloblastin (proteinase 3) (Wegener's autoantigen).</li>\n<li>Plasminogen activators (urokinase-type, and tissue-type).</li>\n<li>Trypsins I, II, III, and IV.</li>\n<li>Tryptases.</li>\n</ul>\n\n<p>All the above proteins belong to family S1 in the classification of peptidases [[cite:PUB00003576]] and originate from eukaryotic species. It should be noted that bacterial proteases that belong to family S2A are similar enough in the regions of the active site residues that they can be picked up by the same patterns. These proteases are listed below.</p>\n\n<ul>\n<li>Achromobacter lyticus protease I.</li>\n<li>Lysobacter alpha-lytic protease.</li>\n<li>Streptogrisin A and B (Streptomyces proteases A and B).</li>\n<li>Streptomyces griseus glutamyl endopeptidase II.</li>\n<li>Streptomyces fradiae proteases 1 and 2.</li>\n</ul>",
+        "llm": false,
+        "checked": false,
+        "updated": false
+      }
+    ],
+    "wikipedia": null,
+    "literature": {
+      "PUB00003576": {
+        "PMID": 7845208,
+        "ISBN": null,
+        "volume": "244",
+        "issue": null,
+        "year": 1994,
+        "title": "Families of serine peptidases.",
+        "URL": null,
+        "raw_pages": "19-61",
+        "medline_journal": "Methods Enzymol",
+        "ISO_journal": "Meth. Enzymol.",
+        "authors": [
+          "Rawlings ND",
+          "Barrett AJ."
+        ],
+        "DOI_URL": "http://dx.doi.org/10.1016/0076-6879(94)44004-2"
+      },
+      "PUB00004028": {
+        "PMID": 3136396,
+        "ISBN": null,
+        "volume": "334",
+        "issue": "6182",
+        "year": 1988,
+        "title": "The molecular evolution of genes and proteins: a tale of two serines.",
+        "URL": null,
+        "raw_pages": "528-30",
+        "medline_journal": "Nature",
+        "ISO_journal": "Nature",
+        "authors": [
+          "Brenner S."
+        ],
+        "DOI_URL": "http://dx.doi.org/10.1038/334528a0"
+      }
+    },
+    "set_info": null,
+    "overlaps_with": [
+      {
+        "accession": "IPR009003",
+        "name": "Peptidase S1, PA clan",
+        "type": "homologous_superfamily"
+      }
+    ],
+    "counters": {
+      "proteins": 1,
+      "structures": 0,
+      "taxa": 1,
+      "proteomes": 1,
+      "sets": 0,
+      "domain_architectures": 1
+    },
+    "entry_annotations": {
+      "alignment:seed": 69,
+      "alignment:full": 195687
+    },
+    "cross_references": {
+      "prositedoc": {
+        "displayName": "PROSITE Doc",
+        "description": "PROSITE is a database of protein families and domains.",
+        "rank": 18,
+        "accessions": [
+          {
+            "accession": "PDOC00124",
+            "url": "http://prosite.expasy.org/PDOC00124"
+          }
+        ]
+      },
+      "ec": {
+        "displayName": "ENZYME",
+        "description": "ENZYME is a repository of information relative to the nomenclature of enzymes. It is primarily based on the recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (IUBMB) and it describes each type of characterized enzyme for which an EC (Enzyme Commission) number has been provided.",
+        "rank": 19,
+        "accessions": [
+          {
+            "accession": "3.4.21",
+            "url": "https://enzyme.expasy.org/EC/3.4.21"
+          }
+        ]
+      }
+    },
+    "is_llm": false,
+    "is_reviewed_llm": false,
+    "is_updated_llm": false,
+    "representative_structure": {
+      "accession": "1pq7",
+      "name": "Trypsin at 0.8 A, pH5 / borax"
+    }
+  },
+  "proteins": [
+    {
+      "accession": "a0a7m7gqt4",
+      "protein_length": 774,
+      "source_database": "unreviewed",
+      "organism": "7460",
+      "in_alphafold": true,
+      "entry_protein_locations": [
+        {
+          "fragments": [
+            {
+              "start": 529,
+              "end": 770,
+              "dc-status": "CONTINUOUS"
+            }
+          ],
+          "representative": false,
+          "model": null,
+          "score": null
+        }
+      ]
+    }
+  ]
+}

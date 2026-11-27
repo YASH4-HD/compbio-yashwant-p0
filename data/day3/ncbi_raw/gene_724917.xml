@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="724917">
+	<Name>scaf</Name>
+	<Description>inactive serine protease scarface</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG15</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB50290, SPH55, cSPH55</OtherAliases>
+	<OtherDesignations>inactive serine protease scarface|serine protease homolog 55</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG15</ChrLoc>
+			<ChrAccVer>NC_037652.1</ChrAccVer>
+			<ChrStart>9516191</ChrStart>
+			<ChrStop>9526639</ChrStop>
+			<ExonCount>10</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>90</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG15</ChrSort>
+	<ChrStart>9516191</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037652.1</ChrAccVer>
+			<ChrStart>9516191</ChrStart>
+			<ChrStop>9526639</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007084.3</ChrAccVer>
+			<ChrStart>9992606</ChrStart>
+			<ChrStop>10003091</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

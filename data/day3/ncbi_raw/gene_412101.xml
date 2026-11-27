@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary gene 20150202//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd">
+<eSummaryResult>
+<DocumentSummarySet status="OK">
+<DbBuild>Build261127-0130m.1</DbBuild>
+
+<DocumentSummary uid="412101">
+	<Name>LOC412101</Name>
+	<Description>uncharacterized LOC412101</Description>
+	<Status>0</Status>
+	<CurrentID>0</CurrentID>
+	<Chromosome>LG10</Chromosome>
+	<GeneticSource>genomic</GeneticSource>
+	<MapLocation></MapLocation>
+	<OtherAliases>GB43369, SP45</OtherAliases>
+	<OtherDesignations>uncharacterized protein LOC412101|serine protease 45</OtherDesignations>
+	<NomenclatureSymbol></NomenclatureSymbol>
+	<NomenclatureName></NomenclatureName>
+	<NomenclatureStatus></NomenclatureStatus>
+	<Mim>
+	</Mim>
+	<GenomicInfo>
+		<GenomicInfoType>
+			<ChrLoc>LG10</ChrLoc>
+			<ChrAccVer>NC_037647.1</ChrAccVer>
+			<ChrStart>4571003</ChrStart>
+			<ChrStop>4647731</ChrStop>
+			<ExonCount>14</ExonCount>
+		</GenomicInfoType>
+	</GenomicInfo>
+	<GeneWeight>33</GeneWeight>
+	<Summary></Summary>
+	<ChrSort>LG10</ChrSort>
+	<ChrStart>4571003</ChrStart>
+	<Organism>
+		<ScientificName>Apis mellifera</ScientificName>
+		<CommonName>honey bee</CommonName>
+		<TaxID>7460</TaxID>
+	</Organism>
+	<LocationHist>
+		<LocationHistType>
+			<AnnotationRelease>104</AnnotationRelease>
+			<AssemblyAccVer>GCF_003254395.2</AssemblyAccVer>
+			<ChrAccVer>NC_037647.1</ChrAccVer>
+			<ChrStart>4571003</ChrStart>
+			<ChrStop>4647731</ChrStop>
+		</LocationHistType>
+		<LocationHistType>
+			<AnnotationRelease>103</AnnotationRelease>
+			<AssemblyAccVer>GCF_000002195.4</AssemblyAccVer>
+			<ChrAccVer>NC_007079.3</ChrAccVer>
+			<ChrStart>4611337</ChrStart>
+			<ChrStop>4680500</ChrStop>
+		</LocationHistType>
+	</LocationHist>
+</DocumentSummary>
+
+</DocumentSummarySet>
+</eSummaryResult>

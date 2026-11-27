@@ -1,0 +1,4 @@
+Entry,Reviewed,Protein names,Gene Names,Organism,Length,InterPro,GeneID
+B2D0J4,reviewed,Venom dipeptidyl peptidase 4 (Allergen C) (Venom dipeptidyl peptidase IV) (EC 3.4.14.5) (allergen Api m 5),,Apis mellifera (Honeybee),775,IPR029058;IPR001375;IPR002469;IPR050278;,410337;
+Q8MQS8,reviewed,Venom serine protease 34 (SP34) (EC 3.4.21.-) (allergen Api m 7),,Apis mellifera (Honeybee),405,IPR000859;IPR009003;IPR001314;IPR051487;IPR035914;IPR001254;IPR018114;,406095;
+C9WMM5,reviewed,Venom serine carboxypeptidase (EC 3.4.16.5) (allergen Api m 9),,Apis mellifera (Honeybee),467,IPR029058;IPR001563;IPR033124;IPR018202;,410451;

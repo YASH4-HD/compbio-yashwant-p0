@@ -1,0 +1,6 @@
+Database: UniProtKB InterPro cross-references
+Query: (organism_id:7460) AND (xref:IPR001254)
+URL: https://rest.uniprot.org/uniprotkb/stream?query=%28organism_id%3A7460%29+AND+%28xref%3AIPR001254%29&format=tsv&fields=accession%2Creviewed%2Cprotein_name%2Cgene_names%2Corganism_name%2Clength%2Cxref_interpro%2Cxref_geneid
+Retrieved UTC: 2026-11-27T16:46:10.303955+00:00
+UniProt release: 2026_04
+Total proteins: 113
